@@ -4,6 +4,7 @@ class Veiculo {
 }
 
 class Carro extends Veiculo { 
+    
     String modelo;
 }
 
